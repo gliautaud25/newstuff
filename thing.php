@@ -2,7 +2,7 @@
 	echo "new stuff</br>";
 	echo exec ('perl thing.pl');
 	exit;
-	//comment 1
+	echo "what is this?";
 	//comment 2
 	//comment 3
 	//comment 4
